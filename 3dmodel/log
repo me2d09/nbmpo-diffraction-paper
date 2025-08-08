@@ -1,0 +1,83 @@
+30-05-2025 [11:44:09] Logfile opened
+30-05-2025 [11:44:09] Executable : vampire-parallel
+30-05-2025 [11:44:09] Host name  : thor2.psi.ch:
+30-05-2025 [11:44:09] Directory  : /scratch/dossan_f/Na2BaMn(PO4)2/vampire_tripleUC_15mat_J2Ja_small_k0.035_Jnn0.11_Ba
+30-05-2025 [11:44:09] Process ID : 795313
+30-05-2025 [11:44:09] Version    : 6.0.0
+30-05-2025 [11:44:09] Githash    : 4c9651daecc86c3e6b6df0c8055fcd9e89fd900c
+30-05-2025 [11:44:09] Opening main input file "input".
+30-05-2025 [11:44:09] Parsing system parameters from main input file.
+30-05-2025 [11:44:09] Opening material file "vampire_15mat.mat".
+30-05-2025 [11:44:09] Parsing material file for parameters.
+30-05-2025 [11:44:09] Reading in unit cell data from disk...
+30-05-2025 [11:44:09] Reading data completed. Processing unit cell data...
+30-05-2025 [11:44:09] 	Processing data for 45 unit cell atoms...
+30-05-2025 [11:44:09] 	Processing unit cell atoms completed
+30-05-2025 [11:44:09] 	Processing data from 630 interactions...
+30-05-2025 [11:44:09] 	Processing unit cell interactions completed
+30-05-2025 [11:44:09] 	Verifying unit cell exchange interactions...
+30-05-2025 [11:44:09] Verifying unit cell exchange interactions completed
+30-05-2025 [11:44:09] 	Number of atoms read-in: 45
+30-05-2025 [11:44:09] 	Number of bilinear interactions read-in: 630
+30-05-2025 [11:44:09] 	Number of biquadratic interactions read-in: 0
+30-05-2025 [11:44:09] 	Exchange type: 
+30-05-2025 [11:44:09] 	Calculated interaction range: 1 Unit Cells
+30-05-2025 [11:44:09] System decomposed into 3 x 4 x 4 processors for parallel execution
+30-05-2025 [11:44:09] Calculating alloy properties of system
+30-05-2025 [11:44:09] Determining atomic composition:
+30-05-2025 [11:44:09] Material 1 Mn makes up 6.66667 % of all atoms ( 24000 atoms )
+30-05-2025 [11:44:09] Material 2 Mn makes up 6.66667 % of all atoms ( 24000 atoms )
+30-05-2025 [11:44:09] Material 3 Mn makes up 6.66667 % of all atoms ( 24000 atoms )
+30-05-2025 [11:44:09] Material 4 Mn makes up 6.66667 % of all atoms ( 24000 atoms )
+30-05-2025 [11:44:09] Material 5 Mn makes up 6.66667 % of all atoms ( 24000 atoms )
+30-05-2025 [11:44:09] Material 6 Mn makes up 6.66667 % of all atoms ( 24000 atoms )
+30-05-2025 [11:44:09] Material 7 Mn makes up 6.66667 % of all atoms ( 24000 atoms )
+30-05-2025 [11:44:09] Material 8 Mn makes up 6.66667 % of all atoms ( 24000 atoms )
+30-05-2025 [11:44:09] Material 9 Mn makes up 6.66667 % of all atoms ( 24000 atoms )
+30-05-2025 [11:44:09] Material 10 Mn makes up 6.66667 % of all atoms ( 24000 atoms )
+30-05-2025 [11:44:09] Material 11 Mn makes up 6.66667 % of all atoms ( 24000 atoms )
+30-05-2025 [11:44:09] Material 12 Mn makes up 6.66667 % of all atoms ( 24000 atoms )
+30-05-2025 [11:44:09] Material 13 Mn makes up 6.66667 % of all atoms ( 24000 atoms )
+30-05-2025 [11:44:09] Material 14 Mn makes up 6.66667 % of all atoms ( 24000 atoms )
+30-05-2025 [11:44:09] Material 15 Mn makes up 6.66667 % of all atoms ( 24000 atoms )
+30-05-2025 [11:44:09] Copying halo atoms to other processors...
+30-05-2025 [11:44:09] 	done!
+30-05-2025 [11:44:09] Memory required for neighbourlist calculation (each cpu):0 MB
+30-05-2025 [11:44:09] Memory required for neighbourlist calculation (all cpus):0 MB
+30-05-2025 [11:44:09] Allocating memory for supercell array in neighbourlist calculation
+30-05-2025 [11:44:09] 	Allocating memory done
+30-05-2025 [11:44:09] Populating supercell array for neighbourlist calculation...
+30-05-2025 [11:44:09] 	Populating supercell array completed
+30-05-2025 [11:44:09] Memory required for neighbour list (each cpu):0 MB
+30-05-2025 [11:44:09] Memory required for neighbour list (all cpus):0 MB
+30-05-2025 [11:44:09] Generating neighbour list...
+30-05-2025 [11:44:09] 	Neighbour list calculation complete
+30-05-2025 [11:44:09] Deallocating supercell array for neighbour list calculation
+30-05-2025 [11:44:09] 	Supercell array deallocated
+30-05-2025 [11:44:09] Number of core  atoms: 5681
+30-05-2025 [11:44:09] Number of local atoms: 7875
+30-05-2025 [11:44:09] Number of total atoms: 10497
+30-05-2025 [11:44:09] Copying system data to optimised data structures.
+30-05-2025 [11:44:09] Number of atoms generated on rank 0: 7875
+30-05-2025 [11:44:09] Memory required for copying to performance array on rank 0: 1.59554 MB RAM
+30-05-2025 [11:44:09] Identifying surface atoms using global threshold value of 0
+30-05-2025 [11:44:09] 0 surface atoms found.
+30-05-2025 [11:44:09] Memory required for creation of 1D neighbour list on rank 0: 0.167952 MB RAM
+30-05-2025 [11:44:09] Initialising data structures for exchange calculation.
+30-05-2025 [11:44:09] Unrolled exchange template requires 0.04536MB RAM
+30-05-2025 [11:44:09] Macrocell size = 10 Angstroms
+30-05-2025 [11:44:09] Macrocells in x,y,z: 3	3	3
+30-05-2025 [11:44:09] Total number of macrocells: 27
+30-05-2025 [11:44:09] Memory required for macrocell arrays: 0.00216 MB
+30-05-2025 [11:44:09] Number of local macrocells on rank 0: 1
+30-05-2025 [11:44:09] Total number of atoms (all CPUs): 360000
+30-05-2025 [11:44:09] Initialising data structures for anisotropy calculation.
+30-05-2025 [11:44:09] Initialising statistics module
+30-05-2025 [11:44:09] Time for initialisation: 0.252633
+30-05-2025 [11:44:09] Starting Simulation with Program partial-hysteresis-loop...
+30-05-2025 [12:16:51] Simulation run time [s]: 1962.47
+30-05-2025 [12:16:51] Monte Carlo statistics:
+30-05-2025 [12:16:51] 	Total moves: 1.476e+11
+30-05-2025 [12:16:51] 	49.995% Accepted
+30-05-2025 [12:16:51] 	50.005% Rejected
+30-05-2025 [12:16:51] Simulation ended gracefully.

@@ -1,0 +1,124 @@
+[33m[0mProcessor 30 of 48 online on host thor9.psi.ch
+[33m[0m[33m[0mProcessor 35 of 48 online on host thor9.psi.ch
+Processor 26 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 37 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 46 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 20 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 38 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 21 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 3 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 36 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 14 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 41 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 24 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 17 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 6 of 48 online on host thor9.psi.ch
+[33m[0m[33m[0mProcessor 10 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 18 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 4 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 7 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 5 of 48 online on host thor9.psi.ch
+[33m[0m                                                _          
+                                               (_)         
+                    __   ____ _ _ __ ___  _ __  _ _ __ ___ 
+                    \ \ / / _` | '_ ` _ \| '_ \| | '__/ _ \
+                     \ V / (_| | | | | | | |_) | | | |  __/
+                      \_/ \__,_|_| |_| |_| .__/|_|_|  \___|
+                                         | |               
+                                         |_|               
+
+                      Version 6.0.0 May 27 2025 12:32:27
+
+             Git commit: 4c9651daecc86c3e6b6df0c8055fcd9e89fd900c
+
+  Licensed under the GNU Public License(v2). See licence file for details.
+
+  Lead Developer: Richard F L Evans <richard.evans@york.ac.uk>
+
+  Contributors: Sarah Jenkins, Andrea Meo, Andrew Naden, Matthew Ellis,
+                Oscar Arbelaez, Sam Morris, Rory Pond, Weijia Fan,
+                Phanwadee Chureemart, Pawel Sobieszczyk, Joe Barker, 
+                Thomas Ostler, Andreas Biternas, Roy W Chantrell,
+                Wu Hong-Ye, Razvan Ababei, Sam Westmoreland,
+                Daniel Meilak
+ 
+                Compiler Flags: MPI 
+
+  Vampire includes a copy of the qhull library from C.B. Barber and The 
+  Geometry Center and may be obtained via http from www.qhull.org.
+
+================================================================================
+Fri Jun  6 20:59:51 2025
+Processor 1 of 48 online on host thor9.psi.ch
+================================================================================
+Initialising system variables
+Processor 12 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 9 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 23 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 16 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 2 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 40 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 11 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 29 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 39 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 32 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 28 of 48 online on host thor9.psi.ch
+[33m[0m[33m[0mProcessor 44 of 48 online on host thor9.psi.ch
+Processor 47 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 48 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 27 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 25 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 33 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 31 of 48 online on host thor9.psi.ch[33m[0mProcessor 42 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 43 of 48 online on host thor9.psi.ch
+
+[33m[0m[33m[0mProcessor 45 of 48 online on host thor9.psi.ch
+Processor 34 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 13 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 15 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 8 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 19 of 48 online on host thor9.psi.ch
+[33m[0mProcessor 22 of 48 online on host thor9.psi.ch
+Creating system
+Reading in unit cell data from disk...done!
+Processing unit cell data...
+Processing data for 9 atoms...done!
+Processing data from 54 interactions...done!
+Verifying exchange interactions...done!
+System decomposed into 4 x 6 x 2 processors for parallel execution
+Copying halo atoms to other processors...[32mdone!
+[0mGenerating neighbour list..........[32mdone!
+[0mCopying system data to optimised data structures.
+Using isotropic form of exchange interaction with 54 total interactions.
+Total number of atoms (all CPUs): 28800
+Time for initialisation: 0.043649
+Starting Simulation with Program partial-hysteresis-loop...
+8          	0.999998   	6.55966e-05	-2.0421e-05	0.867271   	
+7.8        	0.999998   	-2.78676e-05	-8.79664e-05	0.860609   	
+7.6        	0.999998   	-8.52097e-06	1.81799e-05	0.853033   	
+7.4        	0.999997   	-5.23421e-05	1.6677e-05 	0.844697   	
+7.2        	0.999997   	5.8463e-05 	3.3908e-06 	0.835628   	
+7          	0.999997   	3.87326e-06	6.31209e-05	0.825746   	
+6.8        	0.999997   	-4.04544e-05	-2.75564e-05	0.814976   	
+6.6        	0.999997   	-1.41581e-05	-7.36469e-05	0.803232   	
+6.4        	0.999997   	-4.89552e-05	8.11779e-06	0.790393   	
+6.2        	0.999997   	2.93942e-05	-1.46163e-05	0.776498   	
+6          	0.999996   	1.73043e-05	7.00486e-07	0.76143    	
+5.8        	0.999996   	-5.68888e-05	1.62826e-05	0.745184   	
+5.6        	0.999996   	-2.69486e-05	-2.97116e-05	0.72762    	
+5.4        	0.999996   	-6.49464e-06	-3.38446e-05	0.708966   	
+5.2        	0.999995   	1.6298e-05 	-2.30822e-06	0.689037   	
+5          	0.999995   	-5.47381e-05	-2.44112e-05	0.667969   	
+4.8        	0.999995   	-3.48403e-05	-6.38356e-05	0.645841   	
+4.6        	0.999994   	-2.56214e-05	-1.18173e-05	0.622655   	
+4.4        	0.999994   	-2.18668e-05	-6.30631e-05	0.598629   	
+4.2        	0.999993   	-4.47319e-05	-5.194e-05 	0.573765   	
+4          	0.999993   	-4.56476e-05	-5.27701e-06	0.548243   	
+3.8        	0.999992   	-4.83026e-05	8.01061e-06	0.522233   	
+3.6        	0.999991   	-5.72987e-05	3.89146e-05	0.495746   	
+3.4        	0.99999    	-2.2499e-05	4.70679e-06	0.468857   	
+3.2        	0.999989   	2.45182e-05	-9.62623e-06	0.441703   	
+3          	0.999987   	5.47257e-05	4.85822e-06	0.414518   	
+2.8        	0.999985   	6.91282e-05	5.49694e-05	0.387156   	
+2.6        	0.999983   	-5.92903e-05	2.43039e-05	0.359779   	
+2.4        	0.99998    	-9.63912e-05	-7.56531e-06	0.33231    	

@@ -1,0 +1,379 @@
+# OOMMF OVF 2.0
+#
+# Segment count: 000008
+#
+# Begin: Segment
+# Begin: Header
+#
+# Title: SPIRIT Version 2.1.1 (14ed7782bd23f)
+#
+# Desc: Image 1 of 8. -
+#
+# valuedim: 3   ## field dimensionality
+# valueunits: none none none
+# valuelabels: spin_x spin_y spin_z
+#
+## Fundamental mesh measurement unit. Treated as a label:
+# meshunit: nm
+#
+# xmin: -0.1
+# ymin: 0
+# zmin: 0
+# xmax: 0.2
+# ymax: 0.173205
+# zmax: 0
+#
+# meshtype: rectangular
+# xbase: 0
+# ybase: 0
+# zbase: 0
+# xstepsize: 0.1
+# ystepsize: 0.0866025
+# zstepsize: 0.1
+# xnodes: 3
+# ynodes: 3
+# znodes: 1
+#
+# End: Header
+#
+# Begin: Data Text
+       -0.513932229210       -0.679818802934        0.523182624861
+        0.510327666536        0.675050762826        0.532796528118
+        0.003104388209        0.004106419788       -0.999986749957
+        0.510327666536        0.675050762826        0.532796528118
+        0.003104388209        0.004106419788       -0.999986749957
+       -0.513932229210       -0.679818802934        0.523182624861
+        0.003104388209        0.004106419788       -0.999986749957
+       -0.513932229210       -0.679818802934        0.523182624861
+        0.510327666536        0.675050762826        0.532796528118
+# End: Data Text
+# End: Segment
+#
+# Begin: Segment
+# Begin: Header
+#
+# Title: SPIRIT Version 2.1.1 (14ed7782bd23f)
+#
+# Desc: Image 2 of 8. -
+#
+# valuedim: 3   ## field dimensionality
+# valueunits: none none none
+# valuelabels: spin_x spin_y spin_z
+#
+## Fundamental mesh measurement unit. Treated as a label:
+# meshunit: nm
+#
+# xmin: -0.1
+# ymin: 0
+# zmin: 0
+# xmax: 0.2
+# ymax: 0.173205
+# zmax: 0
+#
+# meshtype: rectangular
+# xbase: 0
+# ybase: 0
+# zbase: 0
+# xstepsize: 0.1
+# ystepsize: 0.0866025
+# zstepsize: 0.1
+# xnodes: 3
+# ynodes: 3
+# znodes: 1
+#
+# End: Header
+#
+# Begin: Data Text
+       -0.392286668536       -0.518908599722        0.759503149976
+        0.392241434646        0.518848765279        0.759567387211
+        0.000040631768        0.000053746853       -0.999999997730
+        0.392241434646        0.518848765279        0.759567387211
+        0.000040631768        0.000053746853       -0.999999997730
+       -0.392286668536       -0.518908599722        0.759503149976
+        0.000040631768        0.000053746853       -0.999999997730
+       -0.392286668536       -0.518908599722        0.759503149976
+        0.392241434646        0.518848765279        0.759567387211
+# End: Data Text
+# End: Segment
+#
+# Begin: Segment
+# Begin: Header
+#
+# Title: SPIRIT Version 2.1.1 (14ed7782bd23f)
+#
+# Desc: Image 3 of 8. -
+#
+# valuedim: 3   ## field dimensionality
+# valueunits: none none none
+# valuelabels: spin_x spin_y spin_z
+#
+## Fundamental mesh measurement unit. Treated as a label:
+# meshunit: nm
+#
+# xmin: -0.1
+# ymin: 0
+# zmin: 0
+# xmax: 0.2
+# ymax: 0.173205
+# zmax: 0
+#
+# meshtype: rectangular
+# xbase: 0
+# ybase: 0
+# zbase: 0
+# xstepsize: 0.1
+# ystepsize: 0.0866025
+# zstepsize: 0.1
+# xnodes: 3
+# ynodes: 3
+# znodes: 1
+#
+# End: Header
+#
+# Begin: Data Text
+       -0.080497727922       -0.106480710733        0.991050944221
+        0.080497727922        0.106480710733        0.991050944221
+        0.000000000000        0.000000000000       -1.000000000000
+        0.080497727922        0.106480710733        0.991050944221
+        0.000000000000        0.000000000000       -1.000000000000
+       -0.080497727922       -0.106480710733        0.991050944221
+        0.000000000000        0.000000000000       -1.000000000000
+       -0.080497727922       -0.106480710733        0.991050944221
+        0.080497727922        0.106480710733        0.991050944221
+# End: Data Text
+# End: Segment
+#
+# Begin: Segment
+# Begin: Header
+#
+# Title: SPIRIT Version 2.1.1 (14ed7782bd23f)
+#
+# Desc: Image 4 of 8. -
+#
+# valuedim: 3   ## field dimensionality
+# valueunits: none none none
+# valuelabels: spin_x spin_y spin_z
+#
+## Fundamental mesh measurement unit. Treated as a label:
+# meshunit: nm
+#
+# xmin: -0.1
+# ymin: 0
+# zmin: 0
+# xmax: 0.2
+# ymax: 0.173205
+# zmax: 0
+#
+# meshtype: rectangular
+# xbase: 0
+# ybase: 0
+# zbase: 0
+# xstepsize: 0.1
+# ystepsize: 0.0866025
+# zstepsize: 0.1
+# xnodes: 3
+# ynodes: 3
+# znodes: 1
+#
+# End: Header
+#
+# Begin: Data Text
+       -0.150879838528       -0.199580694467        0.968195652088
+       -0.150879838528       -0.199580694467        0.968195652088
+        0.348239763534        0.460644275110       -0.816416510675
+       -0.150879838528       -0.199580694467        0.968195652088
+        0.348239763534        0.460644275110       -0.816416510675
+       -0.150879838528       -0.199580694467        0.968195652088
+        0.348239763534        0.460644275110       -0.816416510675
+       -0.150879838528       -0.199580694467        0.968195652088
+       -0.150879838528       -0.199580694467        0.968195652088
+# End: Data Text
+# End: Segment
+#
+# Begin: Segment
+# Begin: Header
+#
+# Title: SPIRIT Version 2.1.1 (14ed7782bd23f)
+#
+# Desc: Image 5 of 8. -
+#
+# valuedim: 3   ## field dimensionality
+# valueunits: none none none
+# valuelabels: spin_x spin_y spin_z
+#
+## Fundamental mesh measurement unit. Treated as a label:
+# meshunit: nm
+#
+# xmin: -0.1
+# ymin: 0
+# zmin: 0
+# xmax: 0.2
+# ymax: 0.173205
+# zmax: 0
+#
+# meshtype: rectangular
+# xbase: 0
+# ybase: 0
+# zbase: 0
+# xstepsize: 0.1
+# ystepsize: 0.0866025
+# zstepsize: 0.1
+# xnodes: 3
+# ynodes: 3
+# znodes: 1
+#
+# End: Header
+#
+# Begin: Data Text
+       -0.286145090580       -0.378506740554        0.880257709135
+       -0.286145059073       -0.378506698877        0.880257737298
+        0.603032967357        0.797679395645       -0.007669553054
+       -0.286145059073       -0.378506698877        0.880257737298
+        0.603032967357        0.797679395645       -0.007669553054
+       -0.286145090580       -0.378506740554        0.880257709135
+        0.603032967357        0.797679395645       -0.007669553054
+       -0.286145090580       -0.378506740554        0.880257709135
+       -0.286145059073       -0.378506698877        0.880257737298
+# End: Data Text
+# End: Segment
+#
+# Begin: Segment
+# Begin: Header
+#
+# Title: SPIRIT Version 2.1.1 (14ed7782bd23f)
+#
+# Desc: Image 6 of 8. -
+#
+# valuedim: 3   ## field dimensionality
+# valueunits: none none none
+# valuelabels: spin_x spin_y spin_z
+#
+## Fundamental mesh measurement unit. Treated as a label:
+# meshunit: nm
+#
+# xmin: -0.1
+# ymin: 0
+# zmin: 0
+# xmax: 0.2
+# ymax: 0.173205
+# zmax: 0
+#
+# meshtype: rectangular
+# xbase: 0
+# ybase: 0
+# zbase: 0
+# xstepsize: 0.1
+# ystepsize: 0.0866025
+# zstepsize: 0.1
+# xnodes: 3
+# ynodes: 3
+# znodes: 1
+#
+# End: Header
+#
+# Begin: Data Text
+       -0.176297733957       -0.233202954878        0.956313489834
+       -0.176273101176       -0.233170371151        0.956325975711
+        0.354600734775        0.469058434816        0.808852584607
+       -0.176273101176       -0.233170371151        0.956325975711
+        0.354600734775        0.469058434816        0.808852584607
+       -0.176297733957       -0.233202954878        0.956313489834
+        0.354600734775        0.469058434816        0.808852584607
+       -0.176297733957       -0.233202954878        0.956313489834
+       -0.176273101176       -0.233170371151        0.956325975711
+# End: Data Text
+# End: Segment
+#
+# Begin: Segment
+# Begin: Header
+#
+# Title: SPIRIT Version 2.1.1 (14ed7782bd23f)
+#
+# Desc: Image 7 of 8. -
+#
+# valuedim: 3   ## field dimensionality
+# valueunits: none none none
+# valuelabels: spin_x spin_y spin_z
+#
+## Fundamental mesh measurement unit. Treated as a label:
+# meshunit: nm
+#
+# xmin: -0.1
+# ymin: 0
+# zmin: 0
+# xmax: 0.2
+# ymax: 0.173205
+# zmax: 0
+#
+# meshtype: rectangular
+# xbase: 0
+# ybase: 0
+# zbase: 0
+# xstepsize: 0.1
+# ystepsize: 0.0866025
+# zstepsize: 0.1
+# xnodes: 3
+# ynodes: 3
+# znodes: 1
+#
+# End: Header
+#
+# Begin: Data Text
+       -0.176297733957       -0.233202954878        0.956313489834
+       -0.176273101176       -0.233170371151        0.956325975711
+        0.354600734775        0.469058434816        0.808852584607
+       -0.176273101176       -0.233170371151        0.956325975711
+        0.354600734775        0.469058434816        0.808852584607
+       -0.176297733957       -0.233202954878        0.956313489834
+        0.354600734775        0.469058434816        0.808852584607
+       -0.176297733957       -0.233202954878        0.956313489834
+       -0.176273101176       -0.233170371151        0.956325975711
+# End: Data Text
+# End: Segment
+#
+# Begin: Segment
+# Begin: Header
+#
+# Title: SPIRIT Version 2.1.1 (14ed7782bd23f)
+#
+# Desc: Image 8 of 8. -
+#
+# valuedim: 3   ## field dimensionality
+# valueunits: none none none
+# valuelabels: spin_x spin_y spin_z
+#
+## Fundamental mesh measurement unit. Treated as a label:
+# meshunit: nm
+#
+# xmin: -0.1
+# ymin: 0
+# zmin: 0
+# xmax: 0.2
+# ymax: 0.173205
+# zmax: 0
+#
+# meshtype: rectangular
+# xbase: 0
+# ybase: 0
+# zbase: 0
+# xstepsize: 0.1
+# ystepsize: 0.0866025
+# zstepsize: 0.1
+# xnodes: 3
+# ynodes: 3
+# znodes: 1
+#
+# End: Header
+#
+# Begin: Data Text
+       -0.000008433357       -0.000011155468        0.999999999902
+       -0.000008430096       -0.000011151155        0.999999999902
+        0.000016863453        0.000022306622        0.999999999609
+       -0.000008430096       -0.000011151155        0.999999999902
+        0.000016863453        0.000022306622        0.999999999609
+       -0.000008433357       -0.000011155468        0.999999999902
+        0.000016863453        0.000022306622        0.999999999609
+       -0.000008433357       -0.000011155468        0.999999999902
+       -0.000008430096       -0.000011151155        0.999999999902
+# End: Data Text
+# End: Segment
