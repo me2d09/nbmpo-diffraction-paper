@@ -1,4 +1,5 @@
-# Na₂BaMn(PO₄)₂ diffraction paper – reproducibility package
+# Reproducibility package for article: Spin structures and phase diagrams of the spin-5/2 triangular-lattice antiferromagnet Na₂BaMn(PO₄)₂ under magnetic field
+
 [![License: CC BY-4.0](https://img.shields.io/badge/License-CC%20BY--4.0-lightgrey.svg)](LICENSE)
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/me2d09/nbmpo-diffraction-paper/HEAD?labpath=index.ipynb)
 
