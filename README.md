@@ -1,5 +1,6 @@
 # Na₂BaMn(PO₄)₂ diffraction paper – reproducibility package
 [![License: CC BY-4.0](https://img.shields.io/badge/License-CC%20BY--4.0-lightgrey.svg)](LICENSE)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/me2d09/nbmpo-diffraction-paper/HEAD?labpath=index.ipynb)
 
 This repository contains all Python code and raw data needed to **reproduce every
 figure** in the manuscript
