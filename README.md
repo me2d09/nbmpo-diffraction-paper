@@ -2,7 +2,7 @@
 [![License: CC BY-4.0](https://img.shields.io/badge/License-CC%20BY--4.0-lightgrey.svg)](LICENSE)
 
 This repository contains all Python code and raw data needed to **reproduce every
-figure in the manuscript
+figure** in the manuscript
 
 > “Spin structures and phase diagrams of the spin-5/2 triangular-lattice
 > antiferromagnet Na₂BaMn(PO₄)₂ under magnetic field”.
@@ -76,10 +76,7 @@ pip install -r requirements.txt
 jupyter lab     # or: jupyter notebook
 
 # 5) Open index.ipynb and "Run All Cells"
-
-
-Here’s a corrected **Quick start** section (Markdown) using **`requirements.txt`** and **Python 3.10**, plus a **Binder** launch link:
-
+```
 
 ### B) Run in the browser (Binder)
 
@@ -115,6 +112,15 @@ The complete, version-pinned list is in `requirements.txt`.
 
 Every cell is commented so the logic is transparent; feel free to
 `Shift-Enter` step-wise if you prefer.
+
+---
+
+## Authors & contributions
+
+* **F. J. dos Santos** — *Theory & simulations*: implemented and ran all model calculations; produced the Monte-Carlo / spin-dynamics outputs used in `2dmodel/` and `3dmodel/`.
+* **David Sviták** ([@DavidSvitak](https://github.com/DavidSvitak)) — *Thermodynamics*: performed all specific-heat measurements and provided the PPMS datasets in `rawhc/`.
+* **Petr Čermák** — *Integration & visualization*: integrated datasets, authored the notebook workflow, generated figures, and carried out plotting and fit/refinement steps; repository maintenance.
+
 
 ---
 
