@@ -120,6 +120,7 @@ Every cell is commented so the logic is transparent; feel free to
 ## Authors & contributions
 
 * **F. J. dos Santos** — *Theory & simulations*: implemented and ran all model calculations; produced the Monte-Carlo / spin-dynamics outputs used in `2dmodel/` and `3dmodel/`.
+* **Michał Stękiel** ([@MichalStekiel](https://github.com/mstekiel))- *Diffraction*: refined crystal and magnetic structures used in `diffraction/`.
 * **David Sviták** ([@DavidSvitak](https://github.com/DavidSvitak)) — *Thermodynamics*: performed all specific-heat measurements and provided the PPMS datasets in `rawhc/`.
 * **Petr Čermák** — *Integration & visualization*: integrated datasets, authored the notebook workflow, generated figures, and carried out plotting and fit/refinement steps; repository maintenance.
 
