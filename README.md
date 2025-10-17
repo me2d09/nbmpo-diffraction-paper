@@ -18,7 +18,8 @@ PDF versions of Figures 2–8 in the main text and Figure S3 in the Supplement.
 .
 ├── index.ipynb          # one-click pipeline that orchestrates everything
 ├── 2dmodel/             # Monte-Carlo outputs for the 2D easy-axis triangular Heisenberg model (no interlayer J)
-├── 2dmodel/             # Monte-Carlo outputs for the 3D model with frustrated interlayer couplings (Ja, J2)
+├── 3dmodel/             # Monte-Carlo outputs for the 3D model with frustrated interlayer couplings (Ja, J2)
+├── diffraction/         # processed diffraction data from D23 (neutron) and Rigaku (xray) diffractometers
 ├── rawdata/             # raw neutron diffraction files from D23, these data could e downloaded again from ILL data repository
 ├── rawhc/               # raw heat-capacity files, including puck calibration, measured at MGML facility
 ├── rawsim/              # calculated magnetization curves
@@ -33,6 +34,8 @@ PDF versions of Figures 2–8 in the main text and Figure S3 in the Supplement.
 * **`rawhc/`** — Original heat-capacity data measured on PPMS at the MGML facility, including puck calibration runs. Any addenda subtraction/processing happens in the notebooks; the files here remain untouched.
 
 * **`rawsim/`** — Calculated magnetization curves used in the figures/analysis. These are model outputs saved to disk so the full pipeline can be reproduced without rerunning long simulations. Used for Fig. 6.
+
+* **`diffraction/`** — Processed single-crystal diffraction data. Includes subfolders on magnetic structure investigated with neutron diffraction **`neutron-magnetism/`** and crystal structure with xray diffraction **`xray-structure/`**. Processing includes culling outlier reflections, indexing with requested unit cell and modulation vector, absorption correction, and conversion to required data formats. Refinements were done with [Mag2Pol](https://doi.org/10.1107/S1600576718016084), which stores all parameters in .xml files. Scripts for making Iobc/Icalc plots are included for each measurements, these were used in the Supplementary Information figures.
 
 * **`2dmodel/`** — Monte-Carlo outputs for the **2D easy-axis triangular Heisenberg model** (nearest-neighbour intralayer exchange only; **no interlayer coupling**). Contains the simulation products consumed by the plotting notebook.
 

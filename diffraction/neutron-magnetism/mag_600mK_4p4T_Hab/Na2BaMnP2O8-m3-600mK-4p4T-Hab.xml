@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mag2polSampleFile>
+    <version major="7" minor="0" patch="4"/>
+    <general source="neutron"/>
+    <sample>
+        <symmetry spaceGroup="P-3m1">
+            <magneticSymmetry numberOfIrreps="1" numberOfOperators="1" sphericalCoordinates="false" localSusceptibility="false" useBasisVectors="true" useIrrepsBasisVectors="false">
+                <propagationVector inBrillouinZone="true" qx="0.333333" qy="0.333333" qz="0.153"/>
+                <operators>
+                    <operator irrep="1" symmX="x" symmY="y" symmZ="z" symmU="u" symmV="v" symmW="w" phase="0"/>
+                </operators>
+            </magneticSymmetry>
+        </symmetry>
+        <cellParameters a="5.3729" b="5.3729" c="7.0954" alpha="90" beta="90" gamma="120"/>
+        <atoms sites="6">
+            <atom label="NA" userDefined="false" rigidBody="false">
+                <position x="0.666667" y="0.333333" z="0.79011"/>
+                <occupation occ="1"/>
+                <DW aniso="false" B="0.01" B11="0" B22="0" B33="0" B12="0" B13="0" B23="0"/>
+                <plot show="false" atomScale="10" spinScale="1" red="255" green="255" blue="0"/>
+            </atom>
+            <atom label="BA" userDefined="false" rigidBody="false">
+                <position x="0" y="0" z="0.5"/>
+                <occupation occ="1"/>
+                <DW aniso="false" B="0.01" B11="0" B22="0" B33="0" B12="0" B13="0" B23="0"/>
+                <plot show="false" atomScale="10" spinScale="1" red="0" green="255" blue="255"/>
+            </atom>
+            <atom label="MMN2" userDefined="false" rigidBody="false">
+                <position x="0" y="0" z="0"/>
+                <occupation occ="1"/>
+                <DW aniso="false" B="0.01" B11="0" B22="0" B33="0" B12="0" B13="0" B23="0"/>
+                <magneticMoment Rx="3.039" Ry="0.286" Rz="-0.371" Ix="0" Iy="0" Iz="0" phase="0"/>
+                <basisVectors number="3">
+                    <BV1 Rx="0" Ry="0" Rz="1" Ix="0" Iy="0" Iz="0"/>
+                    <BV2 Rx="0.612" Ry="0" Rz="0" Ix="-0.354" Iy="-0.707" Iz="0"/>
+                    <BV3 Rx="0.612" Ry="0" Rz="0" Ix="0.354" Iy="0.707" Iz="0"/>
+                </basisVectors>
+                <irrep Rx="1" Ry="1" Rz="1" Ix="1" Iy="1" Iz="1"/>
+                <plot show="true" atomScale="15" spinScale="1" red="0" green="0" blue="255"/>
+            </atom>
+            <atom label="P" userDefined="false" rigidBody="false">
+                <position x="0.666667" y="0.333333" z="0.26547"/>
+                <occupation occ="1"/>
+                <DW aniso="false" B="0.01" B11="0" B22="0" B33="0" B12="0" B13="0" B23="0"/>
+                <plot show="false" atomScale="10" spinScale="1" red="0" green="255" blue="0"/>
+            </atom>
+            <atom label="O" userDefined="false" rigidBody="false">
+                <position x="0.666667" y="0.333333" z="0.47899"/>
+                <occupation occ="1"/>
+                <DW aniso="false" B="0.01" B11="0" B22="0" B33="0" B12="0" B13="0" B23="0"/>
+                <plot show="false" atomScale="10" spinScale="1" red="255" green="0" blue="0"/>
+            </atom>
+            <atom label="O" userDefined="false" rigidBody="false">
+                <position x="0.19938" y="0.80062" z="0.8159"/>
+                <occupation occ="1"/>
+                <DW aniso="false" B="0.01" B11="0" B22="0" B33="0" B12="0" B13="0" B23="0"/>
+                <plot show="false" atomScale="10" spinScale="1" red="255" green="0" blue="0"/>
+            </atom>
+        </atoms>
+        <scaleAndExtinction scale="183.745" lambdaHalf="0" shelXtype="anisotropic" x="0" x11="0" x22="0" x33="0" x12="0" x23="0" x13="0" useBeckerCoppens="false" domainRadius="0" mosaicSpread="0" distribution="Lorentzian"/>
+        <twins number="1" tolerance="0.01">
+            <twin R11="1" R12="0" R13="0" R21="0" R22="1" R23="0" R31="0" R32="0" R33="1" population="1"/>
+        </twins>
+        <magneticDomains number="1">
+            <magneticDomain symmX="x" symmY="y" symmZ="z" timeInversion="false" chiral="false" kDomain="1" population="1"/>
+        </magneticDomains>
+    </sample>
+    <plotPreferences>
+        <cellBoundaries aMin="0" aMax="2.9" bMin="0" bMax="2.9" cMin="0" cMax="2"/>
+        <rotationMatrix R11="-0.999" R12="0.039" R13="-0.002" R21="-0.012" R22="-0.254" R23="0.967" R31="0.037" R32="0.967" R33="0.254"/>
+        <lightRotationMatrix R11="1" R12="0" R13="0" R21="0" R22="1" R23="0" R31="0" R32="0" R33="1"/>
+        <visibleBox left="-15.58" right="15.58" bottom="-12.55" top="12.55"/>
+        <projectionType perspective="false" depth="-20" focus="-100"/>
+        <coordinateAxes scale="1" dx="0" dy="0">
+            <axesLabels fontSize="17" aDx="0" aDy="0" bDx="0" bDy="0" cDx="0" cDy="0"/>
+        </coordinateAxes>
+        <legend scale="1" dx="0" dy="0">
+            <legendLabels fontSize="17" dx="0" dy="0"/>
+        </legend>
+    </plotPreferences>
+    <instrument name="D23" wavelength="1" polarization="1" cellEfficiency="1">
+        <axes BLx="+x" BLy="+y" BLz="+z"/>
+        <geometry mode="normal beam" diffractionDirection="left" chiQuadrant="0" blindReflectionAction="0"/>
+        <rotationSenses theta="CCW" omega="CCW" chi="CCW" phi="CCW" nu="CCW"/>
+        <orientationMatrix UB11="0" UB12="0" UB13="0" UB21="0" UB22="0" UB23="0" UB31="0" UB32="0" UB33="0"/>
+        <verticalSampleAxis h="0" k="0" l="1"/>
+        <limitsAndOffsets>
+            <theta min="2" max="160" offset="0"/>
+            <omega min="-178" max="178" offset="0"/>
+            <chi min="-30" max="200" offset="0"/>
+            <phi min="-180" max="180" offset="0"/>
+            <nu min="-24.6" max="5.4" offset="0"/>
+        </limitsAndOffsets>
+    </instrument>
+    <fitParameters refineNuclear="false" purelyMagnetic="false" refineFlippingRatios="false">
+        <settings weight="100" maxIterations="50" convergenceCriterium="0.01" ignoreAdditionalSCphases="true" useMultipolesWithInts="false"/>
+        <results iterations="4" chiSquare="12.859" reducedChiSquare="0.559087" Rf="7.30014"/>
+        <dataSets>
+            <fliFile path=""/>
+            <intFile path="C:/GDrive/PostDoc-Juelich/7_NBMP-Nikolaos/4_D23-6Tvmag/mag4p4T600mK/toto-cull-112m.fsq"/>
+        </dataSets>
+        <constraints number="0"/>
+        <refinementFlags>
+            <atoms>
+                <atom label="NA"/>
+                <atom label="BA"/>
+                <atom label="MMN2">
+                    <magneticMoment Rx="1" Ry="1" Rz="1" Ix="0" Iy="0" Iz="0" phase="0"/>
+                    <sigmaMagneticMoment Rx="0.02" Ry="0.1" Rz="0.1" Ix="0" Iy="0" Iz="0" phase="0"/>
+                </atom>
+                <atom label="P"/>
+                <atom label="O"/>
+                <atom label="O"/>
+            </atoms>
+            <magneticDomains domain1Pop="0"/>
+            <sigmaMagneticDomains domain1Pop="0"/>
+            <phase volumeFraction="0"/>
+            <sigmaPhase volumeFraction="0"/>
+        </refinementFlags>
+    </fitParameters>
+</mag2polSampleFile>
