@@ -135,7 +135,7 @@ Every cell is commented so the logic is transparent; feel free to
 All code and processed data are released under the
 [Creative Commons BY 4.0](LICENSE) license.
 If you find this repository useful, please cite the journal and data article once
-published.
+published. It is available in the `CITATION.cff` file, or in the `Cite this repository` shortcut.
 
 ---
 
