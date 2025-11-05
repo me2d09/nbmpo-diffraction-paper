@@ -8,6 +8,7 @@ figure** in the manuscript
 
 > “Spin structures and phase diagrams of the spin-5/2 triangular-lattice
 > antiferromagnet Na₂BaMn(PO₄)₂ under magnetic field”.
+> N. Biniskos, F. J. dos Santos, M. Stekiel, K. Schmalzl, E. Ressouche, D. Sviták, A. Labh, M. Vališka, N. Marzari, and P. Čermák. Phys. Rev. B, accepted for publication (2025) [doi:10.1103/kszh-m6bf](https://doi.org/10.1103/kszh-m6bf).
 
 The core of the workflow is the Jupyter notebook  
 `index.ipynb` — running it from top to bottom regenerates the publication-ready
